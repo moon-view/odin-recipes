@@ -1,0 +1,1 @@
+Make index and 3 recipes per page link to each other.
